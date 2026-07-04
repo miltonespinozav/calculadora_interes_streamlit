@@ -62,4 +62,4 @@ streamlit run app.py
 
 ## Licencia
 
-Este proyecto usa licencia MIT. El estudiante debe reemplazar el nombre del autor si desea personalizarla.
+Este proyecto usa licencia MIT. Autor: Milton Espinoza.
